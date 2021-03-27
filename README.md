@@ -21,7 +21,7 @@
 
 3. 西瓜书 [book](https://github.com/datawhalechina/pumpkin-book)
 
-4. PRML [python achievement](https://github.com/ctgk/PRML)
+4. PRML [python achievement1](https://github.com/ctgk/PRML) [python achievement2](https://github.com/amber-kshz/PRML)
 
 5. 李宏毅 [book](https://github.com/datawhalechina/leeml-notes) [机器学习video](https://www.bilibili.com/video/av10590361?from=search&seid=3931652912250149237) [深度学习video](https://www.bilibili.com/video/av9770302?from=search&seid=6590634037455896266)
 
