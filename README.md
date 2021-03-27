@@ -67,3 +67,4 @@
 - [ ] 线性代数
 - [ ] RCNN
 - [ ] 大话数据结构
+- [ ] Optimization Model
