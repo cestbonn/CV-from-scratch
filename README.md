@@ -35,11 +35,12 @@
 
 ## 数学基础
 
-1. 凸优化 [book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [李董辉《数值最优化算法与理论》](https://www.baidu.com) [凌青](https://www.bilibili.com/video/BV1Jt411p7jE?p=4)
-2. 矩阵论 [course](https://www.xuetangx.com/course/THU07011000411/5882954) [张贤达](https://github.com/61--/weiyanmin/blob/master/BOOK/%5B矩阵分析与应用%5D.张贤达.扫描版.pdf)
-3. 因果推理 [video](https://www.bilibili.com/video/BV1nZ4y1K78i?p=2&share_source=copy_web)
-4. 实变函数
-5. 泛函分析
+1. 线性代数 [course](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+2. 凸优化 [book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [李董辉《数值最优化算法与理论》](https://www.baidu.com) [凌青](https://www.bilibili.com/video/BV1Jt411p7jE?p=4) [Optimization Model](https://vel.life/凸优化/Optimization.Models.pdf)
+3. 矩阵论 [course](https://www.xuetangx.com/course/THU07011000411/5882954) [张贤达](https://github.com/61--/weiyanmin/blob/master/BOOK/%5B矩阵分析与应用%5D.张贤达.扫描版.pdf)
+4. 因果推理 [video](https://www.bilibili.com/video/BV1nZ4y1K78i?p=2&share_source=copy_web)
+5. 实变函数
+6. 泛函分析
 
 ## CV基础
 
@@ -62,3 +63,4 @@
 从理论到实践
 
 2021-3-26 立FLAG
+2021-3-27 - [ ] 邱锡鹏 - [ ] 线性代数 - [ ] RCNN - [ ]大话数据结构
