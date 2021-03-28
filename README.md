@@ -66,6 +66,8 @@
 2021-3-27 
 - [ ] 邱锡鹏
 - [ ] 线性代数
-- [ ] RCNN
+- [ ] RCNN Note:ongoing
 - [ ] 大话数据结构
 - [ ] Optimization Model
+- [x] 论文2
+Note:事情真多
