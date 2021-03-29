@@ -72,3 +72,10 @@
 - [x] 论文2
 
 Note:事情真多
+
+2021-3-28
+- [ ] 邱锡鹏
+- [ ] 线性代数
+- [ ] RCNN Note:ongoing，这论文真长
+- [ ] 大话数据结构
+- [ ] Optimization Model
