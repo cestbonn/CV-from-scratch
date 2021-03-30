@@ -45,7 +45,7 @@
 
 1. 经典论文阅读
 
-   - [ ] 新专栏
+   [RCNN](https://zhuanlan.zhihu.com/p/360452441)
 
 2. 模型压缩
 
