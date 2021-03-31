@@ -15,7 +15,7 @@
 
 1. 邱锡鹏 [book](https://nndl.github.io)
 
-   [Ch1-2笔记](https://zhuanlan.zhihu.com/p/355254304)
+   [Ch1-2笔记](https://zhuanlan.zhihu.com/p/355254304) [Ch3笔记](https://zhuanlan.zhihu.com/p/356199089)
 
 2. 李航，统计学习方法 [python achievement](https://github.com/WenDesi/lihang_book_algorithm)
 
