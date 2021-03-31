@@ -86,3 +86,9 @@ Note:事情真多
 - [x] RCNN
 - [ ] 大话数据结构
 - [ ] Optimization Model
+
+2021-3-30
+- [ ] 邱锡鹏 note:卡在SVM凸优化
+- [ ] 线性代数
+- [ ] 大话数据结构
+- [ ] Optimization Model
