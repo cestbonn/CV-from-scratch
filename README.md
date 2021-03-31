@@ -88,7 +88,7 @@ Note:事情真多
 - [ ] Optimization Model
 
 2021-3-30
-- [ ] 邱锡鹏 note:卡在SVM凸优化
+- [x] 邱锡鹏 note:SVM凸优化以后再看
 - [ ] 线性代数
 - [ ] 大话数据结构
 - [ ] Optimization Model
