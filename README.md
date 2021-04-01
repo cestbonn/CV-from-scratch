@@ -92,3 +92,9 @@ Note:事情真多
 - [ ] 线性代数
 - [ ] 大话数据结构
 - [ ] Optimization Model
+
+2021-4-1
+- [ ] 邱锡鹏
+- [ ] 线性代数
+- [ ] 大话数据结构
+- [ ] Optimization Model
