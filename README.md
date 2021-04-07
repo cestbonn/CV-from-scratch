@@ -45,13 +45,15 @@
 
 1. 经典论文阅读
 
-   [RCNN](https://zhuanlan.zhihu.com/p/360452441) FPN Fast-RCNN Faster-RCNN SSD Mask-RCNN Yolo
+   [RCNN](https://zhuanlan.zhihu.com/p/360452441) FPN Fast-RCNN Faster-RCNN SSD Mask-RCNN Focal-Loss Yolo
    
-   AlexNet VGG GAN ResNet-v1 ResNet-v2 ResNet-v3(Rethinking) Inception-ResNet
+   AlexNet VGG GAN ResNet-v1 ResNet-v2 ResNet-v3(Rethinking) Inception-ResNet DenseNet
    
    LSTM GRU Attention Transformer Bert
    
    U-Net
+   
+   Normalization
 
 2. 模型压缩
 
